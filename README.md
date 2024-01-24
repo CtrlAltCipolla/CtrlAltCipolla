@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CtrlAltCipolla
 - 👀 I’m interested in Cipolle e programmazione
 - 🌱 I’m currently learning cucinare le cipolle
-- 💞️ I’m looking to collaborate on vegetables
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate with vegetables and Shrek
+- 📫 How to reach me ovunque
+- 😄 Pronouns: we/us
 - ⚡ Fun fact: mi piacciono le cipolle
 
 <!---
